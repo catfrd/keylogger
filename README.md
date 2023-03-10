@@ -2,6 +2,7 @@
 
 
 For the keylogger to work carry out the following steps:
+
        ~ Import the following python library files using pip
                > pip install os
                > pip install pyxhook
