@@ -3,7 +3,7 @@ import pyxhook
 
 log_file = os.environ.get( 
     'pylogger_file', 
-    os.path.expanduser('') #path of the file to be stored
+    os.path.expanduser('D:\Web development\keylogger\file.log') #path of the file to be stored
 ) 
 cancel_key = ord( 
     os.environ.get( 
