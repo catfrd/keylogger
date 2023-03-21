@@ -7,9 +7,9 @@ from email import encoders
 
 #put your gmail id, password, sender address over here
 
-email_user = 'charis.rhea@outlook.com' #enter outlook mailid
-email_password = 'RheaChari$'
-email_send = 'charis.rhea@outlook.com' #enter outlook mailid
+email_user = '........@outlook.com' #enter outlook mailid
+email_password = '' #enter the password
+email_send = '........@outlook.com' #enter outlook mailid
 
 subject = 'enter subject'
 
